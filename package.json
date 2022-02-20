@@ -12,9 +12,6 @@
     "build": "rimraf lib && tsc",
     "prepack": "npm run build"
   },
-  "peerDependencies": {
-    "typescript": "^3.0.0"
-  },
   "devDependencies": {
     "@types/node": "^17.0.18",
     "prettier": "^2.5.1",
