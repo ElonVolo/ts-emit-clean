@@ -9,8 +9,6 @@
   "scripts": {
     "prettier": "prettier \"**/*.ts\" --write",
     "test": "tsc --noEmit && prettier \"**/*.ts\" --list-different",
-    "build": "rimraf lib && tsc",
-    "prepack": "npm run build"
   },
   "devDependencies": {
     "@types/node": "^17.0.18",
