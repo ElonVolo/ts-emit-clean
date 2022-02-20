@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "./lib/index.js",
   "bin": "./bin/ts-emit-clean",
-  "repository": "git@github.com:brieb/ts-emit-clean.git",
+  "repository": "git@github.com:ElonVolow/ts-emit-clean.git",
   "author": "Brie <723547+brieb@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
